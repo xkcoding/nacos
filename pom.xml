@@ -733,5 +733,16 @@
 
         </dependencies>
     </dependencyManagement>
+
+    <distributionManagement>
+        <repository>
+            <id>xkcoding-nexus</id>
+            <url>https://nexus.xkcoding.com/repository/maven-releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>xkcoding-nexus</id>
+            <url>https://nexus.xkcoding.com/repository/maven-snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
 
