@@ -59,7 +59,7 @@
         <moduleSet>
             <useAllReactorProjects>true</useAllReactorProjects>
             <includes>
-                <include>com.alibaba.nacos:nacos-client</include>
+                <include>com.xkcoding:nacos-client</include>
             </includes>
             <binaries>
                 <outputDirectory>lib/</outputDirectory>

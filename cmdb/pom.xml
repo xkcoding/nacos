@@ -17,7 +17,7 @@
 
     <parent>
         <artifactId>nacos-all</artifactId>
-        <groupId>com.alibaba.nacos</groupId>
+        <groupId>com.xkcoding</groupId>
         <version>1.1.4</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
